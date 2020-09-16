@@ -1,6 +1,6 @@
 # Mychat
 ## MyChat iOS Application
-### Tools $ Framework
+### Tools and Framework
 - MVVM design pattern
 - Firestore (Realtime Message)
 - Firebase Storage (Keep Profile Image Data)
